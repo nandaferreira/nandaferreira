@@ -1,8 +1,6 @@
 # Hi! My name´s Fernanda
 -🎓 I'm currently majoring in Computer Science at UFU
-
 -👩‍💻 I'm studying Java
-
 -💟 I love playing the guitar and taking my dog for a walk
 
 <div>
@@ -22,7 +20,5 @@
 <div>
   <a href="https://www.instagram.com/nandaamf_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "mailto:fernandaffm8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-
-    ![Snake animation](https://github.com/nandaferreira/nandaferreira/blob/output/github-contribution-grid-snake.svg)
-    
+  
 </div>
