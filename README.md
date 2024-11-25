@@ -1,7 +1,7 @@
 # Hi! My name´s Fernanda
-# -🎓 I'm currently majoring in Computer Science at UFU
-# -👩‍💻 I'm studying Java
-# -💟 I love playing the guitar and taking my dog for a walk
+-🎓 I'm currently majoring in Computer Science at UFU
+-👩‍💻 I'm studying Java
+-💟 I love playing the guitar and taking my dog for a walk
 <div>
   <a href="https://github.com/nandaferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandaferreira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
