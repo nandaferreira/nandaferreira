@@ -1,10 +1,10 @@
 # Hi! My name´s Fernanda
 
-</div> 🎓 I'm currently majoring in Computer Science at UFU
+🎓 I'm currently majoring in Computer Science at UFU
 
-</div>  I'm studying Java
+👩‍💻I'm studying Java
 
-</div>  I love playing the guitar and taking my dog for a walk
+💟I love playing the guitar and taking my dog for a walk
 
 <div>
   <a href="https://github.com/nandaferreira">
