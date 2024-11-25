@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/nandaferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandaferreira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nandaferreira&layout=compact&langs_count=16&card_width=320&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandaferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nandaferreira&layout=compact&langs_count=16&card_width=320&theme=dracula" />
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="nanda-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -25,5 +25,3 @@
   <a href= "mailto:fernandaffm8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 </div>
-
-  ![Snake animation](https://github.com/nandaferreira/nandaferreira/blob/output/github-contribution-grid-snake.svg)
