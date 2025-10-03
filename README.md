@@ -1,10 +1,10 @@
-# Hi! My name´s Fernanda
+# hi! i'm Fernanda
 
-🎓 I'm currently majoring in Computer Science at UFU
+🎓 currently majoring in Computer Science at UFU
 
-👩‍💻I'm studying SQL
+👩‍💻i'm studying SQL
 
-💟I love playing the guitar and taking my dog for a walk
+💟i love playing the guitar and taking my dog for a walk
 
 <div>
   <a href="https://github.com/nandaferreira">
