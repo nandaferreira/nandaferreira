@@ -2,7 +2,7 @@
 
 🎓 Currently majoring in Computer Science at Universidade Federal de Uberlândia
 
-👩‍💻I'm studying SQL
+👩‍💻I'm studying C
 
 💟I love playing the guitar and taking my dog for a walk
 
